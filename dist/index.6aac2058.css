@@ -1,0 +1,43 @@
+@import "https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&family=Roboto+Condensed:wght@400;700&display=swap";
+body {
+  color: #e6e2db;
+  background-color: #1f1c17;
+  font-family: sans-serif;
+}
+
+header {
+  border-bottom: 2px solid #ccc;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  width: 90%;
+  max-width: 40rem;
+  margin: 2rem auto;
+  padding-bottom: 1.5rem;
+  display: flex;
+}
+
+header img {
+  object-fit: contain;
+  width: 2rem;
+  box-shadow: 0 2px 4px #000000b3;
+}
+
+header h1 {
+  color: #fce563;
+  font-family: Roboto Condensed, sans-serif;
+  font-size: 1.25rem;
+  font-weight: normal;
+}
+
+ul {
+  text-align: center;
+  list-style: none;
+}
+
+li {
+  color: #e9e2ba;
+  margin: .5rem 0;
+}
+
+/*# sourceMappingURL=index.6aac2058.css.map */
